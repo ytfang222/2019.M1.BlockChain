@@ -20,7 +20,7 @@
 
 ## Textbooks and Reading Materials
 * [Blockchain at Berkeley, 2018 Fall](https://blockchain.berkeley.edu/courses/fall-2018-fundamentals-decal/) (__DeCal__): 
-* [Bitcoin and Cryptocurrency Technologies](http://bitcoinbook.cs.princeton.edu/) (Princeton textbook) by Narayanan, Bonneau, Felten, Miller, and Goldfeder ([draft download](https://d28rh4a8wq0iu5.cloudfront.net/bitcointech/readings/princeton_bitcoin_book.pdf)): (__BOOK__)
+* [Bitcoin and Cryptocurrency Technologies](http://bitcoinbook.cs.princeton.edu/) (Princeton textbook) by Narayanan, Bonneau, Felten, Miller, and Goldfeder ([draft download](https://www.lopp.net/pdf/princeton_bitcoin_book.pdf)): (__BOOK__)
 
 ## Assessment / Grading Details
 * Attendance 20%, Assignments 30%, Mid-term exam 30%, Final Project 20%
