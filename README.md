@@ -1,10 +1,13 @@
 # Block Chain and Digital Currency 2019-20 Module 1 (Fall 2019)
 
 ## Announcements
-* Create your github repository (public) as `www.github.com/YOUR_ID/PHBS_BlockChain_2019`.
+* Special thanks to Professor Jaehyuk Choi, who kindly provided the course materials that he used for his class!
 
 ## Lectures: 
-* __01__ (9.2 Mon): Course Overview
+* __01__ (2019/9/2，Mon): Course Overview
+
+## Homework:
+* __hw#0__ Create your github repository (public) as `www.github.com/YOUR_ID/PHBS_BlockChain_2019`.
 
 ***
 # Syllabus
