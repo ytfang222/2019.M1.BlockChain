@@ -4,7 +4,7 @@
 * Special thanks to Professor Jaehyuk Choi, who kindly provided the course materials that he used for his class!
 
 ## Lectures: 
-* __01__ (2019/9/2，Mon): Course Overview [lecture_1_notes](./lecture 1.pdf)
+* __01__ (2019/9/2，Mon): Course Overview [lecture_1_notes](./lecture_1.pdf)
 
 ## Homework:
 * __hw#0__ Create your github repository (public) as `www.github.com/YOUR_ID/PHBS_BlockChain_2019`. Reading assignment: [__Book__ 1.1-1.3]
