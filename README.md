@@ -10,6 +10,11 @@
    * Check out the latest blocks mined at [blockExplorer](https://blockexplorer.com/blocks).
    * Reading assignment: __Book__ 1.1-1.3, __DeCal__ lecture 1-2
 * __02__ (2019/9/5): Introduction to Cryptography and Cryptocurrencies
+   * [data structure quiz questions and answers](./dataStructureQuiz.pdf) __This quiz serves as a prerequisite exam.__
+   
+   * lecture_2_notes: [__SLIDES week #1__](http://faculty.cs.tamu.edu/bettati/Courses/489CryptoCurrencies/2017A/Slides/CryptoAndCryptoCurrencies.pdf).
+   * Reading assignment: __Book__ 1.4-1.5, 2.1-2.3, __DeCal__ lecture 3
+   * Further readings: [Birthday problem](https://en.wikipedia.org/wiki/Birthday_problem)，[Merkle tree](https://gist.github.com/chris-belcher/eb9abe417d74a7b5f20aabe6bff10de0). 
 
 ## Homework:
 * __hw#0__ Create your github repository (public) as `www.github.com/YOUR_ID/PHBS_BlockChain_2019`. 
