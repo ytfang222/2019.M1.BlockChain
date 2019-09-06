@@ -10,7 +10,7 @@
    * Check out the latest blocks mined at [blockExplorer](https://blockexplorer.com/blocks).
    * Reading assignment: __Book__ 1.1-1.3, __DeCal__ lecture 1-2
 * __02__ (2019/9/5): Introduction to Cryptography and Cryptocurrencies
-   * [data structure quiz questions and answers](./dataStructureQuiz.pdf) __This quiz serves as a prerequisite exam.__
+   * [data structure quiz questions and answers](./dataStructureQuiz.pdf) __This quiz serves as a prerequisite exam. Minimum score for enrollment is 10 out of 17.__
    
    * lecture_2_notes: [__SLIDES week #1__](http://faculty.cs.tamu.edu/bettati/Courses/489CryptoCurrencies/2017A/Slides/CryptoAndCryptoCurrencies.pdf).
    * Reading assignment: __Book__ 1.4-1.5, 2.1-2.3, __DeCal__ lecture 3
