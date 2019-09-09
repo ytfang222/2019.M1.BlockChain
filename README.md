@@ -16,6 +16,14 @@
    * Reading assignment: __Book__ 1.4-1.5, 2.1-2.3, __DeCal__ lecture 3
    * Further readings: [Birthday problem](https://en.wikipedia.org/wiki/Birthday_problem)，[Merkle tree](https://gist.github.com/chris-belcher/eb9abe417d74a7b5f20aabe6bff10de0). 
 
+* __03__ (2019/9/9): Introduction to Cryptocurrencies and Decentralization
+   * lecture_3_notes: [__SLIDES week #2__](http://faculty.cs.tamu.edu/bettati/Courses/489CryptoCurrencies/2017A/Slides/HowBitcoinAchievesDecentralization.pdf).
+   * [More on Merkle tree](./moreOnMerkleTrees.pdf)
+   * Reading assignment: __Book__ 2.4-2.5, chapter 3, __DeCal__ lecture 7
+
+* __04__ (2019/9/12): Mechanics of Bitcoin
+   * lecture_4_notes: [__SLIDES week #3__](http://faculty.cs.tamu.edu/bettati/Courses/489CryptoCurrencies/2017A/Slides/MechanicsOfBitcoin.pdf).
+   
 ## Homework:
 * __hw#0__ Create your github repository (public) as `www.github.com/YOUR_ID/PHBS_BlockChain_2019`. 
 
@@ -28,9 +36,10 @@
 * Location: PHBS Building, Room 335
 * Office Hour: Room 649, Tuesday 9-11 AM
 
-## Teaching Assistance: TBA
-* Email: 
-* TA Office Hour: 
+## Teaching Assistance: Andrew Fang
+* Email: 1701213688@sz.pku.edu.cn
+* Location: PHBS Building, Room 513
+* Office Hour: Tuesday 3-5 PM (tentative)
 
 ## Textbooks and Reading Materials
 * [Blockchain at Berkeley, 2018 Fall](https://blockchain.berkeley.edu/courses/fall-2018-fundamentals-decal/) (__DeCal__): 
