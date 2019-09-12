@@ -1,7 +1,7 @@
 # Block Chain and Digital Currency 2019-20 Module 1 (Fall 2019)
 
 ## Announcements
-* Our TA will give an introductory discussion of Java and IDE on __2019/9/12 Thursday from 9-11 AM at PHBS Room 513, the Finalce Lab__. 
+* Our TA will give an introductory discussion of Java and IDE on __2019/9/12 Thursday from 9-11 AM at PHBS Room 513, the Finance Lab__. 
 * Special thanks to Professor [Riccardo Bettati](http://faculty.cs.tamu.edu/bettati/), who kindly gives us permission to use his slides for this class. Here is the link to the [slides page](http://faculty.cs.tamu.edu/bettati/Courses/489CryptoCurrencies/2017A/Slides/slides_overview.html). As he noted in his course web site, these slides were inherited and modified from the original Princeton slides at [Bitcoin and Cryptocurrency Technologies](http://bitcoinbook.cs.princeton.edu/).
 * Special thanks to Professor [Jaehyuk Choi](https://english.phbs.pku.edu.cn/content-627-81-1.html), who kindly provided the course materials that he used for his class!
 
@@ -27,7 +27,7 @@
    
 ## Homework:
 * __hw #0__ Create your github repository (public) as `www.github.com/YOUR_ID/PHBS_BlockChain_2019`. 
-* __hw #0.5__ Check out the TA's [introduction to Java and IDE](https://shimo.im/docs/hCDJTrk3RTD6jpgP/read) and [GitHub account](https://github.com/AndyBeHere/2018BlockchainProject) 
+* __hw #0.5__ Check out the TA's [introduction to Java and IDE](https://shimo.im/docs/hCDJTrk3RTD6jpgP/read) and [GitHub account](https://github.com/AndyBeHere/TA_blockchain) 
 
 ***
 # Syllabus
@@ -40,7 +40,7 @@
 ## Teaching Assistance: Cong Fang
 * Email: 1701213688@sz.pku.edu.cn
 * Location: PHBS Building, Room 213
-* Office Hour: Tuesday 3-5 PM, Thursday 9-11 AM
+* Office Hour: Tuesday 3:30 - 5:20 PM, Thursday 8:30 - 10:20 AM
 
 ## Textbooks and Reading Materials
 * [Blockchain at Berkeley, 2018 Fall](https://blockchain.berkeley.edu/courses/fall-2018-fundamentals-decal/) (__DeCal__): 
