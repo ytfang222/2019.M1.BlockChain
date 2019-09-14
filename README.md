@@ -35,7 +35,7 @@
 * __hw #0__ Create your github repository (public) as `www.github.com/YOUR_ID/PHBS_BlockChain_2019`. 
 * __hw #0.5__ Check out the TA's [introduction to Java and IDE](https://shimo.im/docs/hCDJTrk3RTD6jpgP/read) and [GitHub account](https://github.com/AndyBeHere/TA_blockchain) 
 * __hw #1__ Transaction Handling due by **11:59 PM 2019/9/23**.
-   * [Homework_1](./Homework_1.pdf), [Provided code](./Homework_1.rar).
+   * [Homework_1](./Homework_1/Homework_1.pdf), [Provided code](./Homework_1/Homework_1.rar).
 ***
 # Syllabus
 
