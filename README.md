@@ -1,6 +1,7 @@
 # Block Chain and Digital Currency 2019-20 Module 1 (Fall 2019)
 
 ## Announcements
+* Please update the [student list](./studentList.md) by adding your full name and github repository.
 * Homework #1 is posted. 
 * Our TA will give an introductory discussion of Java and IDE on __2019/9/12 Thursday from 9-11 AM at PHBS Room 513, the Finance Lab__. 
 * Special thanks to Professor [Riccardo Bettati](http://faculty.cs.tamu.edu/bettati/), who kindly gives us permission to use his slides for this class. Here is the link to the [slides page](http://faculty.cs.tamu.edu/bettati/Courses/489CryptoCurrencies/2017A/Slides/slides_overview.html). As he noted in his course web site, these slides were inherited and modified from the original Princeton slides at [Bitcoin and Cryptocurrency Technologies](http://bitcoinbook.cs.princeton.edu/).
@@ -30,6 +31,12 @@
 * __05__ (2019/9/16): How to Store and Use Bitcoins
    * lecture_5_notes: [__SLIDES week #4__](http://faculty.cs.tamu.edu/bettati/Courses/489CryptoCurrencies/2017A/Slides/HowToStoreAnduseBitcoins.pdf).
    * Reading assignment: __Book__ chapter 5
+   * Further readings: [Elliptic Curve Digital Signature Algorithm (ECDSA)](https://en.wikipedia.org/wiki/Elliptic_Curve_Digital_Signature_Algorithm), [Bitcoin Address Generation](https://medium.com/coinmonks/how-to-generate-a-bitcoin-address-step-by-step-9d7fcbf1ad0b) 
+   
+* __06__ (2019/9/19): Bitcoin Mining
+   * lecture_6_notes: [__SLIDES week #5__](http://faculty.cs.tamu.edu/bettati/Courses/489CryptoCurrencies/2017A/Slides/BitcoinMining.pdf).
+
+
    
 ## Homework:
 * __hw #0__ Create your github repository (public) as `www.github.com/YOUR_ID/PHBS_BlockChain_2019`. 
