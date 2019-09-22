@@ -11,6 +11,7 @@
 | 高天琦   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| https://github.com/preciousky/PHBS_BlockChain_2019|
 | 邓珂雅   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| https://github.com/dengkeya/PHBS_BlockChain_2019|
 | 赖琳   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| https://github.com/Phyllislai12/1801212867-PHBS_BlockChain_2019|
+| 玻澜   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| https://github.com/bolan0107/PHBS_BlockChain_2019|
 
 
 
